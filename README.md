@@ -18,9 +18,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+a=input()
+b=input()
+c=a
+a=b
+b=c
+print("Swapped values are:",a,b)
 
-
-
+Developed by:Danica Christa
+RegisterNumber:212223240022
+```
+## Output:
+![alt text](<Screenshot 2024-03-09 092206.png>)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
